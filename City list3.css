@@ -1,0 +1,37 @@
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#4256,#4236);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.selector{
+    width:350px;
+}
+
+#selectfield{
+    width: 100%;
+    padding: 15px 20px;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+    background: rgba(255,255,255,0.7);
+    border-radius: 6px;
+}
+
+
+
+.melector{
+    width: 350px;
+}
+
+#melectfield{
+    width: 100%;
+    padding: 15px 20px;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+    background: rgba(255, 255,255, 0.48);
+    border-radius: 6px;
+}
